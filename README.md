@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/tannavee/tannavee/blob/master/banner.png"
 </p>
 
-I am a recent graduate of [UC Davis](https://www.ucdavis.edu/), where I studied Geneticcs/Genomics and Computer Science. 
+I am a recent graduate of [UC Davis](https://www.ucdavis.edu/), where I studied Geneticcs/Genomics and Computer Science. I am particularily interested in the application of machine learning in the area of genetics. I am also passionate about making computer science a more approachable area for people of all backgrounds to learn as any domain can work hand-in-hand with it. 
