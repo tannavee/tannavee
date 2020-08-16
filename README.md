@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tannavee 👋🏽 👩🏽‍💻
 
 <!--
 **tannavee/tannavee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/tannavee/tannavee/blob/master/TANNAVEE%20KUMAR.png"
+</p>
+
+I am a recent graduate of [UC Davis](https://www.ucdavis.edu/), where I studied Geneticcs/Genomics and Computer Science. 
