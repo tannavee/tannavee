@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/tannavee/tannavee/blob/master/TANNAVEE%20KUMAR.png"
+  <img src="https://github.com/tannavee/tannavee/blob/master/banner.png"
 </p>
 
 I am a recent graduate of [UC Davis](https://www.ucdavis.edu/), where I studied Geneticcs/Genomics and Computer Science. 
