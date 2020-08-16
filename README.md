@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 I am a recent graduate of [UC Davis](https://www.ucdavis.edu/), where I studied Genetics/Genomics and Computer Science. I am particularily interested in the application of machine learning in the area of genetics. I am also passionate about making computer science a more approachable area for people of all backgrounds to learn as any domain can work hand-in-hand with it. 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/tannavee/tannavee/blob/master/rocket.gif"> 
+- What I am up to on website ✍🏽
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/tannaveekumar/) 💼
